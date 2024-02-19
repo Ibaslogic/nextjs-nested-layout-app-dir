@@ -21,6 +21,11 @@ const DashboardLayout = ({ children }) => {
                 Settings
               </DashboardNavLink>
             </li>
+            {/* <li>
+              <DashboardNavLink href="/dashboard/settings/users">
+                Users notifications
+              </DashboardNavLink>
+            </li> */}
           </ul>
         </nav>
       </aside>
